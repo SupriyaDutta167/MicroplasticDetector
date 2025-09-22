@@ -1,0 +1,44 @@
+# =========================
+# Python / Flask Backend
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Flask instance folder
+instance/
+*.log
+
+# =========================
+# Node / React Frontend
+# =========================
+node_modules/
+build/
+dist/
+.cache/
+.npm/
+.pnp.*
+.pnp.js
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.key
+*.pem

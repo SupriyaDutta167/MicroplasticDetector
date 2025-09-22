@@ -1,0 +1,9 @@
+# dataset.yaml
+path: backend/model/data
+
+train: train/images
+val: valid/images
+
+# only one class → microplastic
+nc: 1
+names: ["microplastic"]

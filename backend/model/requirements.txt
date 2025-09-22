@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+ultralytics
+opencv-python
+pillow
+numpy
+pandas
+pyserial
+tqdm
+matplotlib
+scikit-image
